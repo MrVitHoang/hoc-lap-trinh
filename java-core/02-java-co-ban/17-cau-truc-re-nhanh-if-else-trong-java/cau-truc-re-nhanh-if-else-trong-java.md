@@ -95,7 +95,7 @@ if(điều kiện) {
  câu lệnh 2;
  câu lệnh 3;
  ...
-};
+}
 else {
   câu lệnh 1;
   câu lệnh 2;
